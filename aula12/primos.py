@@ -16,7 +16,7 @@ def mostrarPrimos():
         if cont <=2:
             lista_de_primos.append(i)
     
-    print(f'''Os números primos de 1 até {numerofinal} são:
+    print(f'''De 1 até {numerofinal} os numeros primos são:
 {lista_de_primos}''')
 
 mostrarPrimos()
