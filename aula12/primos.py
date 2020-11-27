@@ -4,7 +4,7 @@
 
 def mostrarPrimos():
    
-    numerofinal = int(input("Verificar números primos de 1 até: "))
+    numerofinal = int(input("Digite um numero inteiro: "))
 
     lista_de_primos = []
 
