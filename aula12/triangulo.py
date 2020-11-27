@@ -16,3 +16,12 @@ def triangulo():
     else:
         print('Não é um triângulo !')
 triangulo()
+
+
+#comentário do Hélion
+#uma coisa que gosto dos códigos é que eles são espaçados, por exemplo:
+#Raul faz assim:
+#if (A + B) > C and (A + C) > B and (B + C) > A:
+#fica muito mais claro de ler do que:
+#if (A+B)>C and (A+C)>B and (B+C)>A:
+#acho que usa a PEP8 muito bem e me faz ver como é importante é usar.

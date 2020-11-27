@@ -27,3 +27,8 @@ O numero 5 apareceu {lancamentos.count(5)} vezes
 O numero 6 apareceu {lancamentos.count(6)} vezes 
 ''')
 gerador_de_jogadas()
+
+#comentário do Hélion
+#este código está tão bem executado e escrito que aplicaria ele no lugar do meu
+#a função está clara e a apresentação do código rodando muito bonita.
+#entendi o código na primeira leitura
