@@ -16,3 +16,8 @@ def conta_espacos_vogais():
             v = v + 1
     print (f'Nesta frase existe {e} espaços e {v} vogais.')
 conta_espacos_vogais()
+
+
+#comentário do Hélion:
+#o codigo está super limpo, organizado. Eu entendi ele na primeira leitura. As variáveis com a primeira letra
+#do que ela representa também deixa fácil e o código claro. 

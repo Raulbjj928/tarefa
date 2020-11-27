@@ -39,3 +39,9 @@ SALÁRIO LÍQUIDO : R$ {liquido:.2f}
 
 ''')
 salario()
+
+#comentário do Hélion
+#fácil entendimento, as variáveis com nomes fáceis.
+#a impressão ficou muito bonita, Raul tem mão pra frontend também
+#*uma vez vi num vídeo que dizem pra deixar duas linhas em branco depois do def, porque alguns idle as
+#vezes dão erro, mas não sei se é verdade, se for é a única coisinha

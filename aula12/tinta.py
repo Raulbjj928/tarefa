@@ -27,3 +27,9 @@ def tinta():
         print(f'Você precisara de {galao} galão(ões) de 3,6L')
 
 tinta()
+
+#comentário do Hélion
+#faltaram as opções comprando só com latas de 18L e só com galões de 3.6L
+#se não me engano o 'round' ele arredonda pra baixo também, por exemplo:
+#se precisar 1,2 un de lata, ele arredonda pra 1, mas é mais que uma.
+#ps: não me bata Raul

@@ -19,4 +19,10 @@ def mostrarPrimos():
     print(f'''De 1 até {numerofinal} os numeros primos são:
 {lista_de_primos}''')
 
+
 mostrarPrimos()
+
+#comentário do Hélion
+#achei a estrutura de contagem bem feita, por se tratar de um cálculo matemático
+#mais avançado, eu não entendi de primeira, mas pela matemática, não pelo código,
+#depois fazendo o debug vi que o funcionamento está muito bom
